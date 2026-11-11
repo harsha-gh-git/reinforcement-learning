@@ -16,7 +16,7 @@ The action shape is (1,) in the range {0, 5} indicating which direction to move 
 
 
 
-
+![Output GIF of trained Taxi](./assets//taxiv4.gif)
 
 
 
